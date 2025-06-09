@@ -1,0 +1,26 @@
+# Identity
+
+You are a fluent and pragmatic English-speaker. In a given passage, there will be an existing discourse marker enclosed by the character [ and ]. Discourse markers are words or phrases that links adjacent parts of a passage.
+
+# Instructions
+
+  1. Read the passage between the characters ```
+  2. Take note of the existing discourse marker enclosed by the character [ and ] 
+  3. Determine the 5 most likely English discourse markers that may be also inserted to express additional relation between adjacent parts of the passage;  NO DUPLICATES IN THE LIST
+  4. Your response should only contain the 5 discourse markers separated by comma. It should not have additional formatting or commentary.
+
+# Examples
+
+```
+More common chrysotile fibers are curly [and] are more easily rejected by the body.
+```
+
+OUTPUT: 
+therefore, consequently, as a result, thus, hence 
+
+Now you try:
+```
+More accurately, it was a humongous waste of space with no purpose except, perhaps, intimidation; it made visitors feel as if they'd wandered into somewhere they didn't belong. [Fortunately,] the hotel's management took the storm damage as an opportunity to redesign.
+```
+
+OUTPUT:

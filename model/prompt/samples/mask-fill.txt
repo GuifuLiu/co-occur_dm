@@ -1,0 +1,25 @@
+# Identity
+
+You are a fluent and pragmatic English-speaker. In a given passage, there will be a blank denoted by ___.
+
+# Instructions
+
+  - Read the passage between the characters ```
+  - Determine the 5 most likely English discourse markers in place of the blank ___ that is most appropriate for the context; Discourse markers are words or phrases that express the relation between adjacent parts of the passage. NO DUPLICATES IN THE LIST
+  - Your response should only contain the 5 discourse markers separated by comma. 
+
+# Examples
+
+```
+More common chrysotile fibers are curly and ___ are more easily rejected by the body.
+```
+
+OUTPUT: 
+therefore, consequently, as a result, thus, hence 
+
+Now you try:
+```
+More accurately, it was a humongous waste of space with no purpose except, perhaps, intimidation; it made visitors feel as if they'd wandered into somewhere they didn't belong. Fortunately, ___ the hotel's management took the storm damage as an opportunity to redesign.
+```
+
+OUTPUT:
