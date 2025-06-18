@@ -15,7 +15,7 @@ For `discovery`, we filter data instances so that either both `DM1` and `DM2` (a
 | Type  | Split | n   |
 | ---   | ---   | --- |
 | Explicit - Explicit | Discovery: `both PDTB connective` | 1011 |
-|  | Discovery: `DM2 PDTB connective` |  |
+|  | Discovery: `DM2 PDTB connective` | 6481 |
 |  | PDTB |  |
 | Explicit - Implicit | PDTB | 1706 |
 
