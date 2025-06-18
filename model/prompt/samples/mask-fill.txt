@@ -6,7 +6,7 @@ You are a fluent and pragmatic English-speaker. In a given passage, there will b
 
   - Read the passage between the characters ```
   - Determine the 5 most likely English discourse markers in place of the blank ___ that is most appropriate for the context; Discourse markers are words or phrases that express the relation between adjacent parts of the passage. NO DUPLICATES IN THE LIST
-  - Your response should only contain the 5 discourse markers separated by comma. 
+  - Your response should only contain the 5 discourse markers separated by comma. It should not have additional formatting or commentary.
 
 # Examples
 
@@ -15,7 +15,8 @@ More common chrysotile fibers are curly and ___ are more easily rejected by the 
 ```
 
 OUTPUT: 
-therefore, consequently, as a result, thus, hence 
+therefore, subsequently, also, ultimately, often
+
 
 Now you try:
 ```
