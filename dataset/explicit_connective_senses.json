@@ -1,0 +1,737 @@
+{
+  "once": {
+    "Temporal.Asynchronous.Succession": 80,
+    "Contingency.Condition.Arg2-as-cond": 7,
+    "Contingency.Cause.Reason": 7
+  },
+  "with": {
+    "Expansion.Level-of-detail.Arg2-as-detail": 119,
+    "Contingency.Cause.Reason": 112,
+    "Expansion.Conjunction": 41,
+    "Contingency.Cause+Belief.Reason+Belief": 10,
+    "Expansion.Instantiation.Arg2-as-instance": 7,
+    "Expansion.Manner.Arg2-as-manner": 6,
+    "Temporal.Synchronous": 5,
+    "Contingency.Condition.Arg2-as-cond": 2,
+    "Comparison.Concession.Arg1-as-denier": 2,
+    "Comparison.Contrast": 1
+  },
+  "although": {
+    "Comparison.Concession.Arg1-as-denier": 206,
+    "Comparison.Concession.Arg2-as-denier": 105,
+    "Comparison.Contrast": 15,
+    "Expansion.Exception.Arg2-as-excpt": 2,
+    "Temporal.Synchronous": 1
+  },
+  "and": {
+    "Expansion.Conjunction": 6201,
+    "Contingency.Purpose.Arg2-as-goal": 128,
+    "Contingency.Condition.Arg1-as-cond": 22,
+    "Expansion.Manner.Arg2-as-manner": 19,
+    "Contingency.Cause.Result": 17,
+    "Comparison.Contrast": 16,
+    "Contingency.Cause.Reason": 4,
+    "Expansion.Level-of-detail.Arg2-as-detail": 4,
+    "Comparison.Concession+SpeechAct.Arg2-as-denier+SpeechAct": 2,
+    "Contingency.Cause+SpeechAct.Result+SpeechAct": 1
+  },
+  "even though": {
+    "Comparison.Concession.Arg1-as-denier": 69,
+    "Comparison.Concession.Arg2-as-denier": 26
+  },
+  "but": {
+    "Comparison.Concession.Arg2-as-denier": 3064,
+    "Comparison.Contrast": 619,
+    "Expansion.Conjunction": 42,
+    "Expansion.Exception.Arg2-as-excpt": 3,
+    "Comparison.Concession+SpeechAct.Arg2-as-denier+SpeechAct": 2,
+    "Temporal.Synchronous": 1,
+    "Contingency.Cause.Reason": 1,
+    "Contingency.Cause+SpeechAct.Reason+SpeechAct": 1
+  },
+  "because": {
+    "Contingency.Cause.Reason": 833,
+    "Contingency.Condition+SpeechAct": 2,
+    "Contingency.Cause+Belief.Reason+Belief": 2
+  },
+  "nevertheless": {
+    "Comparison.Concession.Arg2-as-denier": 32,
+    "Comparison.Contrast": 12
+  },
+  "before": {
+    "Temporal.Asynchronous.Precedence": 309,
+    "Temporal.Asynchronous.Succession": 2
+  },
+  "for example": {
+    "Expansion.Instantiation.Arg2-as-instance": 200
+  },
+  "until": {
+    "Temporal.Asynchronous.Precedence": 143,
+    "Contingency.Condition.Arg2-as-cond": 19,
+    "Temporal.Asynchronous.Succession": 9
+  },
+  "if": {
+    "Contingency.Condition.Arg2-as-cond": 1086,
+    "Contingency.Condition+SpeechAct": 56,
+    "Comparison.Concession.Arg1-as-denier": 6,
+    "Comparison.Concession.Arg2-as-denier": 3,
+    "Comparison.Contrast": 2,
+    "Comparison.Concession+SpeechAct.Arg2-as-denier+SpeechAct": 1,
+    "Expansion.Level-of-detail.Arg2-as-detail": 1,
+    "Temporal.Synchronous": 1
+  },
+  "previously": {
+    "Temporal.Asynchronous.Succession": 54,
+    "Comparison.Contrast": 1
+  },
+  "when": {
+    "Temporal.Synchronous": 674,
+    "Temporal.Asynchronous.Succession": 239,
+    "Contingency.Condition.Arg2-as-cond": 195,
+    "Contingency.Cause.Reason": 176,
+    "Contingency.Condition+SpeechAct": 14,
+    "Expansion.Level-of-detail.Arg2-as-detail": 6,
+    "Temporal.Asynchronous.Precedence": 5,
+    "Comparison.Concession.Arg1-as-denier": 3,
+    "Contingency.Cause+Belief.Reason+Belief": 3,
+    "Contingency.Cause.Result": 3,
+    "Comparison.Contrast": 2,
+    "Expansion.Manner.Arg2-as-manner": 2,
+    "Comparison.Concession.Arg2-as-denier": 1
+  },
+  "so": {
+    "Contingency.Cause.Result": 222,
+    "Contingency.Purpose.Arg2-as-goal": 44,
+    "Contingency.Cause+Belief.Result+Belief": 1
+  },
+  "then": {
+    "Temporal.Asynchronous.Precedence": 315,
+    "Contingency.Cause.Result": 13,
+    "Expansion.Conjunction": 12,
+    "Temporal.Synchronous": 4,
+    "Contingency.Condition.Arg1-as-cond": 1
+  },
+  "while": {
+    "Temporal.Synchronous": 414,
+    "Comparison.Contrast": 337,
+    "Comparison.Concession.Arg1-as-denier": 230,
+    "Expansion.Conjunction": 65,
+    "Comparison.Concession.Arg2-as-denier": 7,
+    "Comparison.Similarity": 1
+  },
+  "as long as": {
+    "Contingency.Condition.Arg2-as-cond": 20,
+    "Temporal.Synchronous": 11
+  },
+  "however": {
+    "Comparison.Concession.Arg2-as-denier": 390,
+    "Comparison.Contrast": 96,
+    "Comparison.Concession.Arg1-as-denier": 5,
+    "Temporal.Synchronous": 1
+  },
+  "also": {
+    "Expansion.Conjunction": 1737,
+    "Temporal.Synchronous": 1
+  },
+  "no matter": {
+    "Comparison.Concession.Arg1-as-denier": 8
+  },
+  "after": {
+    "Temporal.Asynchronous.Succession": 589,
+    "Contingency.Cause.Reason": 56
+  },
+  "separately": {
+    "Expansion.Conjunction": 74,
+    "Temporal.Synchronous": 2
+  },
+  "still": {
+    "Comparison.Concession.Arg2-as-denier": 115,
+    "Comparison.Contrast": 75,
+    "Temporal.Asynchronous.Precedence": 2,
+    "Temporal.Synchronous": 1
+  },
+  "so that": {
+    "Contingency.Purpose.Arg2-as-goal": 21,
+    "Contingency.Cause.Result": 10
+  },
+  "not only": {
+    "Expansion.Conjunction": 5
+  },
+  "or": {
+    "Expansion.Disjunction": 258,
+    "Expansion.Conjunction": 71,
+    "Comparison.Concession+SpeechAct.Arg2-as-denier+SpeechAct": 11,
+    "Contingency.Negative-condition.Arg1-as-negCond": 7,
+    "Expansion.Equivalence": 6,
+    "Contingency.Condition+SpeechAct": 2,
+    "Comparison.Concession.Arg2-as-denier": 1
+  },
+  "moreover": {
+    "Expansion.Conjunction": 103
+  },
+  "though": {
+    "Comparison.Concession.Arg2-as-denier": 128,
+    "Comparison.Concession.Arg1-as-denier": 91,
+    "Comparison.Contrast": 16
+  },
+  "either or": {
+    "Expansion.Disjunction": 36,
+    "Contingency.Negative-condition.Arg1-as-negCond": 2
+  },
+  "in addition": {
+    "Expansion.Conjunction": 165
+  },
+  "instead": {
+    "Expansion.Substitution.Arg2-as-subst": 112
+  },
+  "on the other hand": {
+    "Comparison.Contrast": 32,
+    "Comparison.Concession.Arg2-as-denier": 4
+  },
+  "for": {
+    "Contingency.Cause.Reason": 34,
+    "Contingency.Purpose.Arg2-as-goal": 16,
+    "Contingency.Condition.Arg2-as-cond": 7,
+    "Contingency.Cause.Result": 1,
+    "Comparison.Concession.Arg1-as-denier": 1,
+    "Expansion.Level-of-detail.Arg2-as-detail": 1
+  },
+  "by": {
+    "Expansion.Manner.Arg2-as-manner": 419,
+    "Contingency.Purpose.Arg1-as-goal": 115,
+    "Contingency.Cause.Reason": 105,
+    "Contingency.Condition.Arg2-as-cond": 34,
+    "Contingency.Cause+Belief.Reason+Belief": 3,
+    "Expansion.Level-of-detail.Arg2-as-detail": 2,
+    "Temporal.Synchronous": 1,
+    "Comparison.Concession.Arg1-as-denier": 1
+  },
+  "as": {
+    "Temporal.Synchronous": 537,
+    "Contingency.Cause.Reason": 349,
+    "Comparison.Similarity": 66,
+    "Temporal.Asynchronous.Succession": 26,
+    "Expansion.Level-of-detail.Arg1-as-detail": 8,
+    "Contingency.Cause+Belief.Reason+Belief": 8,
+    "Comparison.Contrast": 7,
+    "Comparison.Concession.Arg1-as-denier": 7,
+    "Expansion.Instantiation.Arg2-as-instance": 4,
+    "Expansion.Manner.Arg2-as-manner": 3
+  },
+  "for instance": {
+    "Expansion.Instantiation.Arg2-as-instance": 98
+  },
+  "nonetheless": {
+    "Comparison.Concession.Arg2-as-denier": 25,
+    "Comparison.Contrast": 2
+  },
+  "without": {
+    "Expansion.Manner.Arg2-as-manner": 62,
+    "Comparison.Concession.Arg2-as-denier": 19,
+    "Contingency.Negative-condition.Arg2-as-negCond": 9,
+    "Expansion.Level-of-detail.Arg2-as-detail": 2,
+    "Contingency.Cause.Reason": 1,
+    "Contingency.Cause.Result": 1
+  },
+  "unless": {
+    "Contingency.Negative-condition.Arg2-as-negCond": 98
+  },
+  "meanwhile": {
+    "Temporal.Synchronous": 156,
+    "Comparison.Contrast": 40,
+    "Expansion.Conjunction": 27,
+    "Comparison.Concession.Arg2-as-denier": 3,
+    "Comparison.Similarity": 2
+  },
+  "at the same time": {
+    "Temporal.Synchronous": 65
+  },
+  "yet": {
+    "Comparison.Concession.Arg2-as-denier": 96,
+    "Comparison.Contrast": 4,
+    "Expansion.Conjunction": 2
+  },
+  "since": {
+    "Contingency.Cause.Reason": 107,
+    "Temporal.Asynchronous.Succession": 94,
+    "Temporal.Asynchronous.Precedence": 10
+  },
+  "even so": {
+    "Comparison.Concession.Arg2-as-denier": 9
+  },
+  "rather": {
+    "Expansion.Substitution.Arg2-as-subst": 17
+  },
+  "not only but also": {
+    "Expansion.Conjunction": 9,
+    "Comparison.Contrast": 1
+  },
+  "in fact": {
+    "Expansion.Conjunction": 36,
+    "Expansion.Level-of-detail.Arg2-as-detail": 34,
+    "Comparison.Contrast": 7,
+    "Comparison.Concession.Arg2-as-denier": 4,
+    "Expansion.Instantiation.Arg2-as-instance": 3,
+    "Expansion.Level-of-detail.Arg1-as-detail": 1
+  },
+  "indeed": {
+    "Expansion.Conjunction": 55,
+    "Expansion.Level-of-detail.Arg2-as-detail": 37,
+    "Contingency.Cause+Belief.Reason+Belief": 4,
+    "Expansion.Instantiation.Arg2-as-instance": 2,
+    "Expansion.Equivalence": 2,
+    "Comparison.Concession.Arg2-as-denier": 1,
+    "Contingency.Cause.Result": 1,
+    "Contingency.Cause.Reason": 1,
+    "Expansion.Level-of-detail.Arg1-as-detail": 1
+  },
+  "from": {
+    "Contingency.Cause.Reason": 4,
+    "Contingency.Cause+Belief.Reason+Belief": 2,
+    "Contingency.Condition.Arg2-as-cond": 1,
+    "Expansion.Manner.Arg2-as-manner": 1,
+    "Expansion.Substitution.Arg1-as-subst": 1
+  },
+  "later": {
+    "Temporal.Asynchronous.Precedence": 92
+  },
+  "ultimately": {
+    "Temporal.Asynchronous.Precedence": 16,
+    "Contingency.Cause.Reason": 1,
+    "Contingency.Cause.Result": 1,
+    "Expansion.Conjunction": 1
+  },
+  "as well": {
+    "Expansion.Conjunction": 12,
+    "Comparison.Similarity": 6
+  },
+  "in order": {
+    "Contingency.Purpose.Arg2-as-goal": 51,
+    "Contingency.Condition.Arg2-as-cond": 4
+  },
+  "as a result": {
+    "Contingency.Cause.Result": 78
+  },
+  "not only but": {
+    "Expansion.Conjunction": 18,
+    "Comparison.Concession.Arg2-as-denier": 1
+  },
+  "in case": {
+    "Contingency.Condition.Arg2-as-cond": 6
+  },
+  "therefore": {
+    "Contingency.Cause.Result": 26
+  },
+  "even if": {
+    "Comparison.Concession.Arg1-as-denier": 87
+  },
+  "even before": {
+    "Temporal.Asynchronous.Precedence": 14,
+    "Comparison.Concession.Arg1-as-denier": 14
+  },
+  "as well as": {
+    "Expansion.Conjunction": 7
+  },
+  "thus": {
+    "Contingency.Cause.Result": 111,
+    "Contingency.Cause+Belief.Result+Belief": 1
+  },
+  "in particular": {
+    "Expansion.Level-of-detail.Arg2-as-detail": 9,
+    "Expansion.Instantiation.Arg2-as-instance": 6
+  },
+  "further": {
+    "Expansion.Conjunction": 7
+  },
+  "afterwards": {
+    "Temporal.Asynchronous.Precedence": 5
+  },
+  "similarly": {
+    "Comparison.Similarity": 18
+  },
+  "only": {
+    "Expansion.Exception.Arg2-as-excpt": 3,
+    "Comparison.Concession.Arg2-as-denier": 2,
+    "Expansion.Level-of-detail.Arg2-as-detail": 1,
+    "Comparison.Contrast": 1
+  },
+  "rather than": {
+    "Expansion.Substitution.Arg1-as-subst": 40
+  },
+  "besides": {
+    "Expansion.Conjunction": 19
+  },
+  "if and when": {
+    "Contingency.Condition.Arg2-as-cond": 3,
+    "Temporal.Synchronous": 1
+  },
+  "in": {
+    "Temporal.Synchronous": 20,
+    "Expansion.Manner.Arg2-as-manner": 18,
+    "Expansion.Level-of-detail.Arg1-as-detail": 18,
+    "Contingency.Condition.Arg2-as-cond": 10,
+    "Contingency.Cause.Reason": 4,
+    "Contingency.Purpose.Arg2-as-goal": 3,
+    "Expansion.Level-of-detail.Arg2-as-detail": 2,
+    "Expansion.Instantiation.Arg1-as-instance": 1,
+    "Contingency.Cause+Belief.Reason+Belief": 1
+  },
+  "because of": {
+    "Contingency.Cause.Reason": 12
+  },
+  "nor": {
+    "Expansion.Conjunction": 31,
+    "Expansion.Disjunction": 1,
+    "Comparison.Concession.Arg2-as-denier": 1
+  },
+  "whether": {
+    "Comparison.Concession.Arg1-as-denier": 7
+  },
+  "alternatively": {
+    "Expansion.Disjunction": 4,
+    "Expansion.Substitution.Arg2-as-subst": 2
+  },
+  "much less": {
+    "Expansion.Conjunction": 3
+  },
+  "instead of": {
+    "Expansion.Substitution.Arg1-as-subst": 43
+  },
+  "only if": {
+    "Contingency.Condition.Arg2-as-cond": 13
+  },
+  "whereas": {
+    "Comparison.Contrast": 5
+  },
+  "even after": {
+    "Temporal.Asynchronous.Succession": 8,
+    "Comparison.Concession.Arg1-as-denier": 8
+  },
+  "despite": {
+    "Comparison.Concession.Arg1-as-denier": 9
+  },
+  "given": {
+    "Contingency.Cause.Reason": 6,
+    "Contingency.Cause+Belief.Reason+Belief": 3
+  },
+  "on the one hand on the other hand": {
+    "Comparison.Concession.Arg2-as-denier": 1,
+    "Comparison.Contrast": 1
+  },
+  "depending upon": {
+    "Contingency.Condition.Arg2-as-cond": 1
+  },
+  "by comparison": {
+    "Comparison.Contrast": 11
+  },
+  "till": {
+    "Temporal.Asynchronous.Precedence": 4,
+    "Contingency.Negative-condition.Arg2-as-negCond": 1
+  },
+  "in contrast": {
+    "Comparison.Contrast": 12
+  },
+  "finally": {
+    "Expansion.Conjunction": 18,
+    "Temporal.Asynchronous.Precedence": 14,
+    "Contingency.Cause.Result": 1
+  },
+  "where": {
+    "Contingency.Condition.Arg2-as-cond": 2
+  },
+  "otherwise": {
+    "Expansion.Exception.Arg1-as-excpt": 15,
+    "Contingency.Negative-condition.Arg1-as-negCond": 4
+  },
+  "as if": {
+    "Expansion.Manner.Arg2-as-manner": 11,
+    "Comparison.Similarity": 10,
+    "Comparison.Concession.Arg2-as-denier": 4,
+    "Expansion.Instantiation.Arg1-as-instance": 1
+  },
+  "such as": {
+    "Expansion.Instantiation.Arg2-as-instance": 2
+  },
+  "thereby": {
+    "Contingency.Cause.Result": 9,
+    "Expansion.Manner.Arg1-as-manner": 3
+  },
+  "now that": {
+    "Contingency.Cause.Reason": 19,
+    "Temporal.Synchronous": 6,
+    "Temporal.Asynchronous.Succession": 4,
+    "Temporal.Asynchronous.Precedence": 1
+  },
+  "before and after": {
+    "Temporal.Asynchronous.Precedence": 1,
+    "Temporal.Asynchronous.Succession": 1
+  },
+  "additionally": {
+    "Expansion.Conjunction": 7
+  },
+  "so long as": {
+    "Contingency.Condition.Arg2-as-cond": 4
+  },
+  "in the meantime": {
+    "Temporal.Synchronous": 12,
+    "Temporal.Asynchronous.Succession": 2,
+    "Comparison.Contrast": 1
+  },
+  "but then": {
+    "Comparison.Concession.Arg2-as-denier": 3
+  },
+  "if only": {
+    "Contingency.Condition.Arg2-as-cond": 4,
+    "Comparison.Concession.Arg2-as-denier": 1,
+    "Contingency.Purpose.Arg2-as-goal": 1
+  },
+  "by contrast": {
+    "Comparison.Contrast": 28
+  },
+  "if then": {
+    "Contingency.Condition.Arg2-as-cond": 37,
+    "Contingency.Condition+SpeechAct": 1
+  },
+  "beyond": {
+    "Expansion.Exception.Arg2-as-excpt": 1,
+    "Expansion.Conjunction": 1
+  },
+  "likewise": {
+    "Expansion.Conjunction": 8
+  },
+  "in the end": {
+    "Temporal.Asynchronous.Precedence": 3,
+    "Expansion.Level-of-detail.Arg1-as-detail": 2,
+    "Contingency.Cause.Result": 2,
+    "Comparison.Contrast": 1,
+    "Expansion.Conjunction": 1,
+    "Expansion.Level-of-detail.Arg2-as-detail": 1,
+    "Comparison.Concession.Arg2-as-denier": 1
+  },
+  "regardless": {
+    "Comparison.Concession.Arg2-as-denier": 2
+  },
+  "like": {
+    "Comparison.Similarity": 3,
+    "Expansion.Instantiation.Arg2-as-instance": 1,
+    "Comparison.Contrast": 1
+  },
+  "thereafter": {
+    "Temporal.Asynchronous.Precedence": 11
+  },
+  "next": {
+    "Temporal.Asynchronous.Precedence": 5,
+    "Expansion.Conjunction": 1
+  },
+  "earlier": {
+    "Temporal.Asynchronous.Succession": 15
+  },
+  "in other words": {
+    "Expansion.Equivalence": 17
+  },
+  "later on": {
+    "Temporal.Asynchronous.Precedence": 2
+  },
+  "as soon as": {
+    "Temporal.Asynchronous.Succession": 11,
+    "Temporal.Synchronous": 9
+  },
+  "except": {
+    "Expansion.Exception.Arg2-as-excpt": 12
+  },
+  "in short": {
+    "Expansion.Level-of-detail.Arg1-as-detail": 4
+  },
+  "regardless of": {
+    "Comparison.Concession.Arg1-as-denier": 6
+  },
+  "neither nor": {
+    "Expansion.Conjunction": 2,
+    "Comparison.Contrast": 1
+  },
+  "furthermore": {
+    "Expansion.Conjunction": 12
+  },
+  "in the meanwhile": {
+    "Temporal.Synchronous": 1
+  },
+  "lest": {
+    "Contingency.Negative-condition.Arg1-as-negCond": 2
+  },
+  "as though": {
+    "Comparison.Similarity": 3,
+    "Expansion.Level-of-detail.Arg2-as-detail": 2,
+    "Expansion.Manner.Arg2-as-manner": 2
+  },
+  "not only because of": {
+    "Contingency.Cause.Reason": 1
+  },
+  "insofar as": {
+    "Expansion.Level-of-detail.Arg2-as-detail": 1,
+    "Contingency.Cause.Reason": 1
+  },
+  "specifically": {
+    "Expansion.Level-of-detail.Arg2-as-detail": 10
+  },
+  "conversely": {
+    "Comparison.Contrast": 2
+  },
+  "consequently": {
+    "Contingency.Cause.Result": 10
+  },
+  "albeit": {
+    "Comparison.Concession.Arg2-as-denier": 1
+  },
+  "both and": {
+    "Expansion.Conjunction": 6
+  },
+  "even when": {
+    "Comparison.Concession.Arg1-as-denier": 14,
+    "Temporal.Asynchronous.Succession": 4,
+    "Temporal.Synchronous": 2
+  },
+  "so much as": {
+    "Expansion.Substitution.Arg2-as-subst": 1
+  },
+  "even as": {
+    "Comparison.Concession.Arg1-as-denier": 13,
+    "Temporal.Synchronous": 11
+  },
+  "even with": {
+    "Comparison.Concession.Arg1-as-denier": 2
+  },
+  "afterward": {
+    "Temporal.Asynchronous.Precedence": 6
+  },
+  "so as": {
+    "Contingency.Purpose.Arg2-as-goal": 3
+  },
+  "meantime": {
+    "Temporal.Synchronous": 2
+  },
+  "plus": {
+    "Expansion.Conjunction": 1
+  },
+  "as much as": {
+    "Comparison.Concession.Arg1-as-denier": 2,
+    "Expansion.Conjunction": 1,
+    "Expansion.Substitution.Arg2-as-subst": 1
+  },
+  "more accurately": {
+    "Expansion.Substitution.Arg2-as-subst": 1
+  },
+  "hence": {
+    "Contingency.Cause.Result": 5
+  },
+  "not so much as": {
+    "Expansion.Substitution.Arg2-as-subst": 1
+  },
+  "in any case": {
+    "Comparison.Concession.Arg2-as-denier": 3
+  },
+  "subsequently": {
+    "Temporal.Asynchronous.Precedence": 3
+  },
+  "by then": {
+    "Temporal.Asynchronous.Succession": 7,
+    "Contingency.Cause.Reason": 1
+  },
+  "upon": {
+    "Temporal.Synchronous": 4,
+    "Contingency.Cause.Reason": 3,
+    "Temporal.Asynchronous.Succession": 1
+  },
+  "whenever": {
+    "Contingency.Condition.Arg2-as-cond": 9
+  },
+  "but then again": {
+    "Comparison.Concession.Arg2-as-denier": 1
+  },
+  "not just but also": {
+    "Expansion.Conjunction": 1
+  },
+  "that is": {
+    "Expansion.Level-of-detail.Arg2-as-detail": 2,
+    "Expansion.Equivalence": 2
+  },
+  "accordingly": {
+    "Contingency.Cause.Result": 5
+  },
+  "even while": {
+    "Temporal.Synchronous": 3,
+    "Comparison.Concession.Arg1-as-denier": 3
+  },
+  "on the contrary": {
+    "Comparison.Contrast": 4
+  },
+  "whatever": {
+    "Comparison.Concession.Arg1-as-denier": 4
+  },
+  "simultaneously": {
+    "Temporal.Synchronous": 6
+  },
+  "or otherwise": {
+    "Expansion.Disjunction": 2
+  },
+  "in sum": {
+    "Expansion.Level-of-detail.Arg1-as-detail": 2
+  },
+  "even then": {
+    "Temporal.Asynchronous.Precedence": 2,
+    "Comparison.Concession.Arg2-as-denier": 2
+  },
+  "when and if": {
+    "Temporal.Asynchronous.Succession": 1,
+    "Contingency.Condition.Arg2-as-cond": 1
+  },
+  "even before then": {
+    "Temporal.Asynchronous.Succession": 1,
+    "Comparison.Concession.Arg2-as-denier": 1
+  },
+  "due to": {
+    "Contingency.Cause.Reason": 1
+  },
+  "on the one hand on the other": {
+    "Comparison.Contrast": 1
+  },
+  "about": {
+    "Contingency.Cause.Reason": 2
+  },
+  "else": {
+    "Contingency.Negative-condition.Arg1-as-negCond": 1
+  },
+  "and then": {
+    "Expansion.Disjunction": 1
+  },
+  "since before": {
+    "Temporal.Asynchronous.Succession": 1
+  },
+  "as an alternative": {
+    "Expansion.Disjunction": 2
+  },
+  "depending on": {
+    "Contingency.Condition.Arg2-as-cond": 3
+  },
+  "and/or": {
+    "Expansion.Conjunction": 2,
+    "Expansion.Disjunction": 2
+  },
+  "not just but": {
+    "Expansion.Conjunction": 1
+  },
+  "along with": {
+    "Expansion.Conjunction": 2
+  },
+  "on": {
+    "Contingency.Cause.Reason": 1
+  },
+  "but also": {
+    "Expansion.Conjunction": 1
+  },
+  "not only also": {
+    "Expansion.Conjunction": 1
+  },
+  "in that": {
+    "Expansion.Level-of-detail.Arg2-as-detail": 1
+  }
+}
