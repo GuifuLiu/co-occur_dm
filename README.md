@@ -28,3 +28,11 @@ For `discovery`, we filter data instances so that either both `DM1` and `DM2` (a
     ├── prompt
     └── mask-fill
 ```
+
+## Model Prediction
+
+Model predicted markers and probabilities are saved as `top_5_conn` and `top_5_score`. You can access prediction file this way:
+```
+from datasets import load_dataset
+reloaded_dataset = load_dataset("model/mask-fill/predictions/<train_data>_<train_data>", streaming=True)
+```
