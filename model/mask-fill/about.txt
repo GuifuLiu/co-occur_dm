@@ -1,0 +1,5 @@
+model folder is named as <model_name>_<training data>
+prediction folder is named as <training data>_<testing_data> 
+
+at the creation of this file, <model_name> is t5_base
+<training_data> or <testing_data> can be discovery-pdtb, discovery-other, pdtb or any combination of three (as indicated by "+")

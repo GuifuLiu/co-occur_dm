@@ -1,0 +1,123 @@
+{
+  "builder_name": "csv",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "csv",
+  "dataset_size": 1019713,
+  "description": "",
+  "download_checksums": {
+    "/content/co-occur_dm/dataset/explicit-explicit/discovery/dm1_other/train.csv": {
+      "num_bytes": 681516,
+      "checksum": null
+    },
+    "/content/co-occur_dm/dataset/explicit-explicit/discovery/dm1_other/validation.csv": {
+      "num_bytes": 97001,
+      "checksum": null
+    },
+    "/content/co-occur_dm/dataset/explicit-explicit/discovery/dm1_other/test.csv": {
+      "num_bytes": 196121,
+      "checksum": null
+    }
+  },
+  "download_size": 974638,
+  "features": {
+    "id": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "sentence1": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "sentence2": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "dm1": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "dm2": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "input_ids": {
+      "feature": {
+        "dtype": "int32",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "attention_mask": {
+      "feature": {
+        "dtype": "int8",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "labels": {
+      "feature": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "generated_sequences": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "sequence_scores": {
+      "feature": {
+        "dtype": "float32",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "top5_conn": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "top5_score": {
+      "feature": {
+        "dtype": "float64",
+        "_type": "Value"
+      },
+      "_type": "List"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 1994351,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 713122,
+      "num_examples": 3260,
+      "dataset_name": "csv"
+    },
+    "validation": {
+      "name": "validation",
+      "num_bytes": 101514,
+      "num_examples": 466,
+      "dataset_name": "csv"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 205077,
+      "num_examples": 932,
+      "dataset_name": "csv"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
