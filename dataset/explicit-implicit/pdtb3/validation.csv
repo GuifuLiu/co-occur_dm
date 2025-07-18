@@ -1,4 +1,4 @@
-File Number,Explicit Connective,Implicit Connective,Arg1 Complete,Arg2 Complete,Explicit Sense1,Implicit Sense1
+File Number,dm1,dm2,sentence1,sentence2,Explicit Sense1,Implicit Sense1
 wsj_2269,and,then,"The maker of home appliances said the process, which involves the use of a multilayer plastic bag during repairs to capture the gaseous substance","transport it to a recycling center, is already in use at a number of its service centers, and will be available to all authorized repair centers by spring.",Expansion.Conjunction,Temporal.Asynchronous.Precedence
 wsj_2351,and,so,CNN executives worry that the network's punchy but repetitive news format may be getting stale,won't keep viewers coming back as the alternatives multiply for news and information on cable-TV.,Expansion.Conjunction,Contingency.Cause.Result
 wsj_2222,and,thus,But there is also the possibility that shutting down markets will intensify fears,cause an even more abrupt slide in prices.,Expansion.Conjunction,Contingency.Cause.Result

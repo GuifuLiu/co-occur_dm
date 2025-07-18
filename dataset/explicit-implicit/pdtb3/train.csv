@@ -1,4 +1,4 @@
-File Number,Explicit Connective,Implicit Connective,Arg1 Complete,Arg2 Complete,Explicit Sense1,Implicit Sense1
+File Number,dm1,dm2,sentence1,sentence2,Explicit Sense1,Implicit Sense1
 wsj_1870,and,thus,"As onlookers stand behind barricades, helmeted firemen and building inspectors survey rows of nearby buildings that were twisted from their foundations",seem on the verge of collapse.,Expansion.Conjunction,Contingency.Cause.Result
 wsj_0764,and,as a result,"Luxurious homes and ranches have been raided by the military authorities,",sophisticated and powerful communications equipment have been seized.,Expansion.Conjunction,Contingency.Cause.Result
 wsj_1916,and,so,"But only bridges supported with single rows of columns were top priority,","the Nimitz Freeway, supported by double rows, was left out, Mr. Drago explained.",Expansion.Conjunction,Contingency.Cause.Result

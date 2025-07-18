@@ -1,4 +1,4 @@
-File Number,Explicit Connective,Implicit Connective,Arg1 Complete,Arg2 Complete,Explicit Sense1,Implicit Sense1
+File Number,dm1,dm2,sentence1,sentence2,Explicit Sense1,Implicit Sense1
 wsj_0088,and,therefore,"That response annoyed Rep. Markey, House aides said, and the congressman snapped back that there had been enough studies of the issue",that it was time for action on the matter.,Expansion.Conjunction,Contingency.Cause.Result
 wsj_0719,and,then,"Unable to unload a large block of a French blue-chip company's shares in Paris for two days last week, a frustrated Scottish Amicable fund manager finally tossed down her phone in disgust","called James Capel & Co., a London brokerage firm.",Expansion.Conjunction,Temporal.Asynchronous.Precedence
 wsj_1706,and,so,"But that has been the key to Compaq's success, he adds, whereas Dell carved out its market niche as a direct seller of low-cost but reliable computers --",it might be too late in the game for a shift in strategy.,Expansion.Conjunction,Contingency.Cause.Result
